@@ -1,0 +1,7 @@
+hi {name}, ini istimewa
+{name} kamu lagi apa?
+Kemarin kamu kemana {name} ?
+{name}, boleh saya kenal?
+Bener namamu {name} ?
+{name} Kamu sering main gak ?
+Hei {name}, bukain dong ..
